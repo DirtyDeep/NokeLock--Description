@@ -10,6 +10,7 @@ Send request can get Response,the response is:
 ![image](https://user-images.githubusercontent.com/48674419/109612622-fb6e6d00-7b6a-11eb-96e5-87f706a209da.png)
 
 User nickname modified successfully,and we can get the userId and password,if we modified the value of userId from request,we will get the information of other users：  
+![image](https://user-images.githubusercontent.com/48674419/109613501-34f3a800-7b6c-11eb-893f-5bd4da7af6d6.png)
 
 
 
